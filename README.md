@@ -1,4 +1,4 @@
-# CRUD_Operation_Using_Angular_Spring-Boot_MySql
+# CRUD_Operation_Using_Angular_Spring-Boot_MySQL
 # Description:
 
 Company(Hashworks IT Services Private Limited)_Internship_Project.
