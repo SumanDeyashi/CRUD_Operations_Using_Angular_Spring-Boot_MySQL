@@ -19,4 +19,3 @@ Now, 4 components: customers-list, customer-details, create-customer, search-cus
 
 Configuration for Spring Datasource and Spring JPA properties in application.properties Dependencies for Spring Boot and MySQL in pom.xml.
 
-d
